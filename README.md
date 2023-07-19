@@ -8,20 +8,20 @@
 - Route Tables: Control traffic between subnets and the internet.
 - Internet Gateway (IGW): Enables communication between instances in the VPC and the internet.
 - Network Address Translation (NAT) Gateway: Allows instances in private subnets to access the internet while maintaining privacy.
--
+- 
 ##### Route 53
 
 - Public and Private Hosted Zones: Manage DNS records for public and internal domains.
 - Simple Routing Policies: Direct traffic to resources using simple rules like weighted or round-robin routing.
--
+
 #### Application Load Balancer (ALB)
 - Target Groups: Directs traffic to a group of instances based on rules or conditions.
 - Host Header Routing: Routes traffic to different target groups based on the host header value in HTTP requests.
--
+
 #### EC2 Instances
 - Security Groups: Control inbound and outbound traffic to instances.
 - Network Access Control Lists (NACLs): Provides an additional layer of network security at the subnet level.
--
+
 #### Bastion Host 
 - Acts as a secure gateway to access instances in the private subnet when required.
 #### Auto Scaling Group (ASG)
