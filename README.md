@@ -8,7 +8,7 @@
 - Route Tables: Control traffic between subnets and the internet.
 - Internet Gateway (IGW): Enables communication between instances in the VPC and the internet.
 - Network Address Translation (NAT) Gateway: Allows instances in private subnets to access the internet while maintaining privacy.
-- 
+ 
 ##### Route 53
 
 - Public and Private Hosted Zones: Manage DNS records for public and internal domains.
