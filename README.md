@@ -30,7 +30,7 @@
 *These fundamental AWS resources work together to create a highly available, scalable, and secure web hosting environment. With automatic scaling and redundancy across multiple Availability Zones, the architecture ensures optimal performance and reliable operation for hosting the website on AWS.*
 
 ### Project Architecture:
-![Project Diagram](AWS-EC2-web-hosting-arch.drawio.svg)
+![Project Diagram](AWS-EC2-Static-Hosting-Website-Page-5.jpg)
 
 ### What I did:
 1. **Virtual Private Cloud (VPC): The VPC is set up with both public and private subnets distributed across two Availability Zones (AZs) for redundancy and high availability.**
