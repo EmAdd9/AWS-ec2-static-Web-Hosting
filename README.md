@@ -53,7 +53,7 @@
 
 10. **Route 53: The domain name for the website is registered with Route 53, which allows easy management and mapping of domain names to AWS resources.**
 
-11. **GitHub Repository: Web files are stored in a GitHub repository, enabling version control, collaboration, and seamless deployment to the EC2 instances.**
+11. **GitHub Repository: Web files are stored in a GitHub repository, enabling version control, collaboration.**
 
 **Overall, this architecture combines several AWS services to create a robust, scalable, and fault-tolerant web hosting environment, ensuring the website remains available and performs well under varying loads.**
 
