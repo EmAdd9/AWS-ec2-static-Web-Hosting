@@ -56,5 +56,3 @@
 11. **GitHub Repository: Web files are stored in a GitHub repository, enabling version control, collaboration.**
 
 **Overall, this architecture combines several AWS services to create a robust, scalable, and fault-tolerant web hosting environment, ensuring the website remains available and performs well under varying loads.**
-
-#### Not finished, I will due contents soon....
